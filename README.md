@@ -9,7 +9,8 @@ Welcome to my Dactyl Manuform keyboard project! 🎉 This repository shares the 
 
 ## 🔗 Layout Configuration
 
-The layout was customized using an online configurator which you can find here: [Dactyl Manuform Layout Generator](https://github.com/ibnuda/dactyl-keyboard)
+- **Personal Configuration**: Check out my custom layout [here](https://ryanis.cool/dactyl/#manuform:CiUIBhAEGgp0aHJlZS1taW5pIgR6ZXJvKgNib3gyBm5vcm1pZTgAGgkIABIDcmo5GAAiF1UAAIBAGAAgAF0AAOBAZQAAQEBAAEgAKgYIARABGAA=).
+- **Layout Generator**: Use this [Dactyl Manuform Layout Generator](https://ryanis.cool/dactyl/) to create your own custom layout.
 
 ## 🛠️ Next Steps
 
