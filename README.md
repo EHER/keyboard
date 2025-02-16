@@ -5,8 +5,8 @@ Welcome to my Dactyl Manuform keyboard project! 🎉 This repository shares the 
 ## 📂 Current Project Status
 
 - **Available Files**:
-  - [**STL Files**](model.stl): View and download the 3D model files directly.
-  - [**SCAD Files**](model.scad): Access the source files for further modifications.
+  - [**STL File**](model.stl): View and download the 3D model file directly.
+  - [**SCAD File**](model.scad): Access the source file for further modifications.
 
 ## 🔗 Layout Configuration
 
