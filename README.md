@@ -1,11 +1,12 @@
-# 🎹 DIY Dactyl Manuform Project
+# ⌨️ DIY Dactyl Manuform Project
 
 Welcome to my Dactyl Manuform keyboard project! 🎉 This repository shares the model files and documents my journey in building this ergonomic keyboard. This is just the first step in my journey, and I will keep updating as I make progress with printing and assembly! 🚀
 
 ## 📂 Current Project Status
 
 - **Available Files**:
-  - **STL and SCAD**: Customized keyboard models ready for printing.
+  - [**STL Files**](model.stl): View and download the 3D model files directly.
+  - [**SCAD Files**](model.scad): Access the source files for further modifications.
 
 ## 🔗 Layout Configuration
 
@@ -29,9 +30,3 @@ This repository will be updated with:
 
 - **Photos and Notes** from the printing and assembly processes.
 - **Tips and Learnings** as I overcome challenges along the way.
-
----
-
-If you're embarking on a similar project or have any suggestions, feel free to open an issue or contribute! I'm excited to share my progress and learn from the community. 🤗
-
-**Until the next update!** 🎉
