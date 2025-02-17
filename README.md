@@ -17,6 +17,7 @@ Welcome to my Dactyl Manuform keyboard project! 🎉 This repository shares the 
 
 1. **3D Printing the Case** 📦
    - I'm currently exploring 3D printing services available in the Netherlands and deciding on the best material to use.
+   - Additionally, I'm considering purchasing a simple Creality 3D printer to undertake this project more independently.
 
 2. **Collecting Components** ⚙️
    - I plan to start acquiring switches, diodes, a Pro Micro controller, and other necessary materials.
@@ -30,3 +31,9 @@ This repository will be updated with:
 
 - **Photos and Notes** from the printing and assembly processes.
 - **Tips and Learnings** as I overcome challenges along the way.
+
+---
+
+If you're embarking on a similar project or have any suggestions, feel free to open an issue or contribute! I'm excited to share my progress and learn from the community. 🤗
+
+**Until the next update!** 🎉
